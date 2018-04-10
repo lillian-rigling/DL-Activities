@@ -6,3 +6,5 @@ categories: journal
 tags: [information,privilege,open,access,digital,literacy]
 image: infoprivilege-banner.jpg
 ---
+
+What
